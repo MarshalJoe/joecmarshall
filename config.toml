@@ -1,3 +1,5 @@
+
+theme = "hugo_theme_pickles"
 baseurl = "joecmarshall.com"
 languageCode = "en-us"
 Title = "Joe M."
