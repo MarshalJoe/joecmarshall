@@ -33,8 +33,8 @@ copyright = "&copy; 2018 Joe Marshall"
   author = "Joe Marshall"
   # authorwebsite = "joecmarshall.com"
   # avatar = "/path/to/avatar"
-  # contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Joe is a web application engineer, independent security reseacher, writer, and mourner of The Expanse. His first book, Hands-On Bug Bounty Penetration Testing, is forthcoming from Packt, Fall 2018."
+  # contact = "mailto:joe@joecmarshall.com"
+  bio = "Joe is a web application engineer, independent security reseacher, and writer. His first book, Hands-On Bug Bounty for Penetration Testers, is being released from Packt in Fall 2018."
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Developer and Author from Austin, TX."
   # Logo image. This is displayed ogp image.
