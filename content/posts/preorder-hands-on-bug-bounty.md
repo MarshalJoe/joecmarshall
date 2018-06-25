@@ -4,7 +4,7 @@ date: 2018-06-23T13:56:18-05:00
 draft: false
 ---
 
-Hey everybody. This October I'll be releasing my first book with Packt publishing, *Hands-On Bug Bounty for Penetration Testers*. 
+This October I'll be releasing my first book with Packt publishing, *Hands-On Bug Bounty for Penetration Testers*. 
 
 The book covers:
 
