@@ -39,22 +39,7 @@ copyright = "&copy; 2018 Joe Marshall"
   subtitle = "Developer and Author from Austin, TX."
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
-
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-
-[[menu.main]]
-    name = "Resume"
-    url = "/resume"
-    weight = 2
+  favicon = "/favicon.ico"
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
