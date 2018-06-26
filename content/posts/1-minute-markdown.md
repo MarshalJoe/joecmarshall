@@ -23,9 +23,9 @@ Here are markdown's Greatest Hits: Bread-and-butter examples that are a tiny sub
 
 `[link text](http://somewhere.com)` [link text](http://somewhere.com)
 
-`![caption](https://en.wikipedia.org/wiki/File:Salto_del_Angel-Canaima-Venezuela08.JPG)`
+`![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Salto_del_Angel-Canaima-Venezuela08.JPG/340px-Salto_del_Angel-Canaima-Venezuela08.JPG)`
 
-![caption](https://en.wikipedia.org/wiki/File:Salto_del_Angel-Canaima-Venezuela08.JPG)
+![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Salto_del_Angel-Canaima-Venezuela08.JPG/340px-Salto_del_Angel-Canaima-Venezuela08.JPG)
 
 Headers in markdown are given weight proportional to their hash prefixes.
 
@@ -86,7 +86,8 @@ There are a few scripts you can use to either translate markdown on the command 
 
 # Further Reading
 If this has piqued your interest &mdash; or you are encountering scenarios beyond this poor guide &mdash; here are some further resources that investigate the topic in greater depth.
-- [John Gruber's original markdown syntax](http://daringfireball.net/projects/markdown/syntax)
-- [Commonmark, an attempt at unifying markdown versions](http://commonmark.org/)
-- [markdowntutorial.com](http://markdowntutorial.com/)
-- [whatismarkdown.com](http://whatismarkdown.com/)
+
+- [John Gruber's original markdown syntax](http://daringfireball.net/projects/markdown/syntax)  
+- [Commonmark, an attempt at unifying markdown versions](http://commonmark.org/)  
+- [markdowntutorial.com](http://markdowntutorial.com/)  
+- [whatismarkdown.com](http://whatismarkdown.com/)  
