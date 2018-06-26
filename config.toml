@@ -1,6 +1,6 @@
 
 theme = "hugo_theme_pickles"
-baseurl = "joecmarshall.com"
+baseurl = "https://joecmarshall.com/"
 languageCode = "en-us"
 Title = "Joe M."
 # Copyright notice. This is displayer in the footer.
