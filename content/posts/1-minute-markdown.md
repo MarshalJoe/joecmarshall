@@ -5,7 +5,7 @@ draft: false
 ---
 
 # What's Markdown?
-Markdown is punctuation for the web. It enables authors to easily write documents that feature common online staples like [links](http://google.com), images, as well as *italicized*, **bold**, and other types of rich text, using a simple, lightweight set of symbols that can easily be converted to HTML, doc, pdf, or rtf files. Since markdown files are just plain text, they're an ultra-portable way to write web-compatible content without the mess of a WYSWIG editor or proprietary file types.
+Markdown is punctuation for the web. It enables authors to easily write documents that feature common online staples like [links](http://google.com), images, as well as *italicized*, **bold**, and other types of rich text, using a simple, lightweight set of symbols that can easily be converted to HTML, `doc`, `pdf`, or `rtf` files. Since markdown files are just plain text, they're an ultra-portable way to write web-compatible content without the mess of a WYSWIG editor or proprietary file types.
 
 # Why Use It?
 For the same reasons you've probably used markdown before (if you've ever signalled *emphasis* using `*asterisks*`, you've used it):
@@ -59,7 +59,7 @@ Line breaks occur naturally after headers and blank lines. If you'd like to enfo
 And speaking of `<br>` tags, **HTML tags are valid in markdown**, meaning that if you'd like to drop in a regular 'ol `<br>` tag that's OK too.
 
 # How To Use It
-Although markdown is ultimately just plain text (so you can write markdown content using any editor) there are many applications that support extra features, like automatically implementing markdown in-page or providing an easy preview window to see what it looks like rendered. There are also many ways to translate `.md` files into other types if you need your content in pdf, doc, or another form. Here's just a smattering of some of the best options:
+Although markdown is ultimately just plain text (so you can write markdown content using any editor) there are many applications that support extra features, like automatically implementing markdown in-page or providing an easy preview window to see what it looks like rendered. There are also many ways to translate `.md` files into other types if you need your content in `pdf`, `doc`, or another form. Here's just a smattering of some of the best options:
 
 ## Web
 - [Dillinger](http://dillinger.io/)
@@ -80,9 +80,9 @@ In general, just about every code editor or text editor used to write code will 
 
 ## Programmatically
 There are a few scripts you can use to either translate markdown on the command line or build your own translation application.
-[The original perl script](http://daringfireball.net/projects/markdown/)
-[A PHP port of the original](https://michelf.ca/projects/php-markdown/)
-[pandoc, a universal document converter](http://pandoc.org/)
+- [The original perl script](http://daringfireball.net/projects/markdown/)  
+- [A PHP port of the original](https://michelf.ca/projects/php-markdown/)  
+- [pandoc, a universal document converter](http://pandoc.org/)  
 
 # Further Reading
 If this has piqued your interest &mdash; or you are encountering scenarios beyond this poor guide &mdash; here are some further resources that investigate the topic in greater depth.
