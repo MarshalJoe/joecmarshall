@@ -29,7 +29,7 @@ copyright = "&copy; 2018 Joe Marshall"
   # Disqus shortname
   disqus = ""
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  ga_api_key = "UA-105604576-1"
   author = "Joe Marshall"
   # authorwebsite = "joecmarshall.com"
   # avatar = "/path/to/avatar"
