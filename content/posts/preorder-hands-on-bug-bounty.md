@@ -18,6 +18,6 @@ The book covers:
 
 If you have some experience with penetration testing, it'll be a good introduction to public bug bounty programs, and if you're just getting into security, it's a great series of walkthroughs for getting up to speed - even if you have to search for the meaning of a term or two (or three).
 
-[Pre-order it from Amazon](https://www.amazon.com/Hands-Bug-Bounty-Penetration-Testers/dp/1789344204/ref=sr_1_1?ie=UTF8&qid=1528946375&sr=8-1&keywords=Hands-On+Bug+Bounty+for+Penetration+Testers) 
+[Pre-order it from Amazon](https://www.amazon.com/Hands-Bug-Bounty-Penetration-Testers/dp/1789344204/) 
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51X4orUF13L._SX403_BO1,204,203,200_.jpg)
