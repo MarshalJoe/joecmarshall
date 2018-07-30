@@ -1,10 +1,10 @@
 ---
-title: "Pre-Order Hands-On - Bug Bounties for Penetration Testers"
+title: "Pre-order Hands-On Bug Hunting for Penetration Testers"
 date: 2018-06-23T13:56:18-05:00
 draft: false
 ---
 
-This October I'll be releasing my first book with Packt publishing, *Hands-On Bug Bounties for Penetration Testers*. 
+This October I'll be releasing my first book with Packt publishing, *Hands-On Bug Hunting for Penetration Testers*. 
 
 The book covers:
 
