@@ -47,4 +47,4 @@ Those are just some of the reasons that I really enjoy a Markdown-heavy, plain t
 
 Being able to [write an entire book in Markdown](https://leanpub.com/), pushing new builds on a branch update, or getting a clear and expressive formatting system for low-overheard high-availability applications like static site generators - at this point, they're just a welcome bonus to adopting an already-empowering workflow. 
 
-This workflow has served me well as a professional writer, including for my upcoming first book about penetration testing, [Hands-On Bug Bounties For Penetration Testers](https://www.amazon.com/gp/product/1789344204/ref=as_li_tl?ie=UTF8&tag=bughunt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1789344204&linkId=d0166c1e6990155b2e00db633c3e27d3). I'd be lost without it.
+This workflow has served me well as a professional writer, including for my upcoming [book about penetration testing](https://www.amazon.com/gp/product/1789344204/ref=as_li_tl?ie=UTF8&tag=bughunt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1789344204&linkId=d0166c1e6990155b2e00db633c3e27d3). I'd be lost without it.
