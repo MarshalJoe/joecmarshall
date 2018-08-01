@@ -4,7 +4,7 @@ date: 2018-07-31T18:56:18-05:00
 draft: false
 ---
 
-All writers have their own workflows for writing: Many people use Word, Google Docs, or Libre Office - George R.R. Martin famously uses [WordStar](http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_software_from_the_1980s.html), a DOS-based text-processing system from the mid-80s. As long as your personal productivity is juiced and you're comfortable, you can be as idiosyncratic as you want. Somewhere a hardcore cypherpunk is writing the next crytographic epic in vim.
+All writers have their own workflows for writing: Many people use Word, Google Docs, or Libre Office - George R.R. Martin famously uses [WordStar](http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_software_from_the_1980s.html), a DOS-based text-processing system from the mid-80s. As long as your personal productivity is juiced and you're comfortable, you can be as idiosyncratic as you want. Somewhere a hardcore cypherpunk is writing the next cryptographic epic in vim.
 
 In that spirit, I've evolved my own writing process over time as I've looked for a workflow that minimized application overhead, allowed me to translate documents between formats, provided robust version tracking, integrated well with other tools, and worked offline. There are several parts to the stack.
 
