@@ -1,6 +1,7 @@
 ---
 title: "Creating my Blog and Book Sites on the Free Stack"
 date: 2018-08-02T12:45:18-05:00
+thumbnail: "/images/freelance-graphic.png"
 draft: false
 ---
 
