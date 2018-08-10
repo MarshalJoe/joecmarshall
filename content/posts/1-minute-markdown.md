@@ -23,9 +23,9 @@ Here are markdown's Greatest Hits: Bread-and-butter examples that are a tiny sub
 
 `[link text](http://somewhere.com)` [link text](http://somewhere.com)
 
-`![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Salto_del_Angel-Canaima-Venezuela08.JPG/340px-Salto_del_Angel-Canaima-Venezuela08.JPG)`
+`![caption](/images/caerlaverock-castle.jpg)`
 
-![caption](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Salto_del_Angel-Canaima-Venezuela08.JPG/340px-Salto_del_Angel-Canaima-Venezuela08.JPG)
+![caption](/images/caerlaverock-castle.jpg)
 
 Headers in markdown are given weight proportional to their hash prefixes.
 
@@ -41,12 +41,11 @@ Headers in markdown are given weight proportional to their hash prefixes.
 
 `###### Header` `<h6>Header</h6>`
 
-````
-- dashes
-- create
-- bullets
-    - and you can nest them
-````
+`- dashes`  
+`- create`  
+`- bullets`  
+`    - and you can nest them`  
+
 - dashes
 - create
 - bullets
@@ -62,24 +61,25 @@ And speaking of `<br>` tags, **HTML tags are valid in markdown**, meaning that i
 Although markdown is ultimately just plain text (so you can write markdown content using any editor) there are many applications that support extra features, like automatically implementing markdown in-page or providing an easy preview window to see what it looks like rendered. There are also many ways to translate `.md` files into other types if you need your content in `pdf`, `doc`, or another form. Here's just a smattering of some of the best options:
 
 ## Web
-- [Dillinger](http://dillinger.io/)
-- [StackEdit](https://stackedit.io/editor)
-- [Markable](https://markable.in/)
+- [Dillinger](http://dillinger.io/)  
+- [StackEdit](https://stackedit.io/editor)  
+- [Markable](https://markable.in/)  
 
 ## Native
-- [Mou](http://25.io/mou/) (Mac)
-- [Write](http://writeapp.net/) (Mac)
-- [iA Writer](https://ia.net/writer/mac) (Mac)
-- [BBEdit](http://www.barebones.com/products/bbedit/) (Mac - "HTML and text editor")
-- [MarkdownPad](http://www.markdownpad.com/) (Windows)
-- [MarkPad](http://code52.org/DownmarkerWPF/) (Windows)
-- [Haroopad](http://pad.haroopress.com/) (Windows and Linux)
-- [Atom](https://atom.io/) (Windows, Mac, and Linux - "Hackable text editor")
+- [Mou](http://25.io/mou/) (Mac)  
+- [Write](http://writeapp.net/) (Mac)  
+- [iA Writer](https://ia.net/writer/mac) (Mac)  
+- [BBEdit](http://www.barebones.com/products/bbedit/) (Mac - "HTML and text editor")  
+- [MarkdownPad](http://www.markdownpad.com/) (Windows)  
+- [MarkPad](http://code52.org/DownmarkerWPF/) (Windows)  
+- [Haroopad](http://pad.haroopress.com/) (Windows and Linux)  
+- [Atom](https://atom.io/) (Windows, Mac, and Linux - "Hackable text editor")  
 
 In general, just about every code editor or text editor used to write code will support markdown, either natively or via plugin.  You can even author markdown content using [Microsoft Word](http://www.writage.com/) if you'd prefer.
 
 ## Programmatically
 There are a few scripts you can use to either translate markdown on the command line or build your own translation application.
+
 - [The original perl script](http://daringfireball.net/projects/markdown/)  
 - [A PHP port of the original](https://michelf.ca/projects/php-markdown/)  
 - [pandoc, a universal document converter](http://pandoc.org/)  
