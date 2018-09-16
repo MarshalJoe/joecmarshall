@@ -5,6 +5,8 @@ thumbnail: "/images/bughunting-cover.jpg"
 draft: false
 ---
 
+*Update: The book has since been released. See how to purchase it at [handsonbughunting.com](https://handsonbughunting.com) or use the Amazon link included in the article below.*
+
 This October I'll be releasing my first book with Packt publishing, *Hands-On Bug Hunting for Penetration Testers*. 
 
 The book covers:
