@@ -20,4 +20,4 @@ If you have some experience with penetration testing, it'll be a good introducti
 
 [Pre-order it from Amazon](https://www.amazon.com/gp/product/1789344204/ref=as_li_tl?ie=UTF8&tag=bughunt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1789344204&linkId=d0166c1e6990155b2e00db633c3e27d3) 
 
-![](https://images-na.ssl-images-amazon.com/images/I/81wgeUvwAdL.jpg)
+![](/images/bughunting-cover.jpg)
