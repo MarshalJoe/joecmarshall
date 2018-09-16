@@ -1,6 +1,7 @@
 ---
 title: "Pre-order Hands-On Bug Hunting for Penetration Testers"
 date: 2018-06-23T13:56:18-05:00
+thumbnail: "/images/bughunting-cover.jpg"
 draft: false
 ---
 
@@ -18,6 +19,4 @@ The book covers:
 
 If you have some experience with penetration testing, it'll be a good introduction to public bug bounty programs, and if you're just getting into security, it's a great series of walkthroughs for getting up to speed - even if you have to search for the meaning of a term or two (or three).
 
-[Pre-order it from Amazon](https://www.amazon.com/gp/product/1789344204/ref=as_li_tl?ie=UTF8&tag=bughunt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1789344204&linkId=d0166c1e6990155b2e00db633c3e27d3) 
-
-![](/images/bughunting-cover.jpg)
+[Pre-order it from Amazon](https://www.amazon.com/gp/product/1789344204/ref=as_li_tl?ie=UTF8&tag=bughunt-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1789344204&linkId=d0166c1e6990155b2e00db633c3e27d3)
