@@ -1,5 +1,5 @@
 ---
-title: "Bug Hunting Book Available Now"
+title: "Bug Hunting for Penetration Testers Available Now"
 date: 2018-09-16T13:56:18-05:00
 thumbnail: "/images/bughunting-cover.jpg"
 draft: false
