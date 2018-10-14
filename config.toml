@@ -46,10 +46,16 @@ copyright = "&copy; 2018 Joe Marshall"
     url = "/"
     weight = 1
 
- [[menu.main]]
+[[menu.main]]
     name = "Bug Hunting"
     url = "https://handsonbughunting.com"
     weight = 2
+
+[[menu.main]]
+    name = "Job Board"
+    url = "/jobs"
+    weight = 3
+
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
