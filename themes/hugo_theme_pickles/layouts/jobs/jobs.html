@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 {{ $baseurl := .Site.BaseURL | sanitizeurl }}
 <article class="p-article">
-  <header>
+  <header style="padding-left: 20px;">
     <h1>{{ .Title }}</h1>
     <div>
       <div class="c-time">
@@ -18,7 +18,7 @@
   {{ with .Params.thumbnail }}
     <img src="{{ . }}" alt="thumbnail" class="p-article__thumbnail">
   {{ end }}
-  <section id="js-article" class="p-article__body">
+  <section id="js-article">
     {{ .Content }}
   </section>
   <footer>
@@ -35,22 +35,6 @@
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     {{ end }}
-    <nav class="p-pagination c-pagination">
-      <div class="c-pagination__ctrl">
-        <div class="c-pagination__newer">
-          {{ if .Prev }}
-          <a href="{{ .Prev.Permalink }}">Newer</a>
-          {{ else }}
-          {{ end }}
-        </div>
-        <div class="c-pagination__older">
-          {{ if .Next }}
-          <a href="{{ .Next.Permalink }}">Older</a>
-          {{ else }}
-          {{ end }}
-        </div>
-      </div>
-    </nav>
   </footer>
 </article>
-{{ partial "footer.html" . }}
+{{ partial "footer-nosidebar.html" . }}

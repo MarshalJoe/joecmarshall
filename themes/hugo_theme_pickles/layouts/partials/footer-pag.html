@@ -1,0 +1,55 @@
+  </main>
+  <div class="sidebar">
+    <iframe title="Client Iframe Example" width="100%" height="750" src="https://s3.amazonaws.com/tech-jobs-list/index.html" style="border:none; ">
+    </iframe>
+  </div>
+  </div>
+  <div class="main-footer">
+    {{ partial "pagination.html" .Paginator }}
+    {{ partial "siteinfo.html" . }}
+    {{ partial "menu.html" . }}
+  </div>
+  <footer class="l-footer">
+    {{ partial "link.html" . }}
+
+    <p class="p-copyright">
+      {{ with .Site.Copyright | safeHTML }}
+        {{ . }}
+      {{ else }}
+        {{ if .Site.Params.author }}
+          {{ if .Site.Params.authorwebsite }}
+            <a href="{{ .Site.Params.authorwebsite }}">{{ .Site.Params.author }}</a>
+          {{ else }}
+            {{ .Site.Params.author }}
+          {{ end }}
+        {{ end }}
+        &nbsp;&bull;&nbsp;
+        {{ .Site.LastChange.Format "2006" }}
+
+        {{ if .Site.Title }}
+          &nbsp;&bull;&nbsp;
+          <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+        {{ end }}
+      {{ end }}
+    </p>
+  </footer>
+
+  <!-- Bootstrap highlight.js -->
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  <script>
+    let hi = `%c
+|   |o    --.--|                   |
+|---|.      |  |---.,---.,---.,---.|
+|   ||      |  |   ||---'|    |---'
+'   ''      '  '   ''---''    '---'o`;
+    console.log(hi, "font-family:monospace");
+    console.log("Thank you for coming to my humble site. Want to hear a joke?");
+    console.log("What do you say to a co-worker wearing a silly hat?");
+    console.log("(Check the next line in source for answer)");
+    // ANSWER: Work is not the place for such frivolity.
+  </script>
+
+  {{- partial "footer_custom.html" . }}
+</body>
+</html>
