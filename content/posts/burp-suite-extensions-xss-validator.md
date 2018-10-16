@@ -10,9 +10,7 @@ XSS / Cross-site scripting (which is just another form of [Code Injection](https
 
 It's also [very common](https://www.info-point-security.com/sites/default/files/cenzic-vulnerability-report-2014.pdf). 
 
-That potent combination  - profitability and ubiquity - marks it as a worthy target for penetration testers interested in collecting on public bounties.
-
-But because of a high rate of false-positives (and inevitably imperfect logic) the process of ferreting out XSS causes a lot of noise. The [XSS Validator from Nvisium](https://blog.nvisium.com/2014/01/accurate-xss-detection-with-burpsuite.html) is designed to solve this problem. It verifies XSS findings exported from the [Burp Suite](http://phantomjs.org/) interface in a node server designed to receive, analyze, and pass back possible XSS snippets. The extension is critical for testing a target with a large attack surface.
+That potent combination  - profitability and ubiquity - marks it as a worthy target for penetration testers interested in public bounties.But because of a high rate of false-positives (and inevitably imperfect detection logic) the process of ferreting out XSS comes with a lot of noise. The [XSS Validator from Nvisium](https://blog.nvisium.com/2014/01/accurate-xss-detection-with-burpsuite.html) is designed to solve this problem. It verifies XSS findings exported from the [Burp Suite](http://phantomjs.org/) interface in a Node server designed to receive, analyze, and validate possible XSS snippets. The extension is critical for testing a target with a large attack surface.
 
 ## Installing XSS Validator
 
