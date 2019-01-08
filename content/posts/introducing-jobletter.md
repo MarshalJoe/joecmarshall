@@ -1,6 +1,7 @@
 ---
 title: "Jobletter - Junior Developer jobs in your inbox"
 date: 2019-01-07T18:56:18-05:00
+thumbnail: "/images/jobletter-site.png"
 draft: false
 ---
 
