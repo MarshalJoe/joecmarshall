@@ -61,7 +61,7 @@ Though sadly I didn't ship the MVP with the all the appropriate Goals and GA ins
 
 In graphs like this Mailchimp one below, you can see the steady trickly of new signups interrupted by a big new inflow - this one was a post to `r/entrepreneur` and a related subreddit.
 
-![](/images/jobletter.mailchimp-graph.png)
+![](/images/jobletter-mailchimp-graph.png)
 
 ## Lessons Learned
 
