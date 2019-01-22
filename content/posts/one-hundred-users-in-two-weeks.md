@@ -33,7 +33,7 @@ The landing page is still pretty basic. It needs a few meat-and-potatoes element
 
 But we made the Lean decision very consciously to ship our MVP and then use that early response for idea validation and feedback. 
 
-We received the landing page as a zipped directory of static assets in a Gitlab repository. From there it was a simple drag-n-drop on [Netlify](https://netlify.com) to go from _her_ deliverable to _our_ site - though it would take more to make it fully functional. Netlify was a great choice to achieve this kind of rapid protype-to-alpha functionality, because it can integrate with a custom domain for free and you can also get forms or basic identity tracking as add-on extensions. A site and custom domain was enough for this project though.
+We received the landing page as a zipped directory of static assets in a Gitlab repository. From there it was a simple drag-n-drop on [Netlify](https://netlify.com) to go from _her_ deliverable to _our_ site - though it would take more to make it fully functional. Netlify was a great choice to achieve this kind of rapid prototype-to-alpha functionality, because it can integrate with a custom domain for free and you can also get forms or basic identity tracking as add-on extensions. A site and custom domain was enough for this project though.
 
 To take it to launch-ready, I added GA for basic tracking and Mailchimp for our subscription functionality. After hooking up the two landing page fields to Mailchimp and adding the GA script to be injected by Netlify in the post-processing stage, we were ready to collect signups - and test the idea.
 
@@ -59,7 +59,7 @@ What we shouldn't have been surprised to discover is that junior developers are 
 
 Though sadly I didn't ship the MVP with the all the appropriate Goals and GA instrumentation, we could get a rough idea from our signup email notifications when a particular subreddit or comment would catch on. 
 
-In graphs like this Mailchimp one below, you can see the steady trickly of new signups interrupted by a big new inflow - this one was a post to `r/entrepreneur` and a related subreddit.
+In graphs like this Mailchimp one below, you can see the steady trickle of new signups interrupted by a big new inflow - this one was a post to `r/entrepreneur` and a related subreddit.
 
 ![](/images/jobletter-mailchimp-graph.png)
 
@@ -77,7 +77,7 @@ We got so many compliments on our design and the professionalism of it - and our
 
 ### Get It Up Rough
 
-There were many decisions we could've made to extend the work pre-launch: We considered rewriting the LP into one of our JS MVCs of choice, to make it more interactive and extensible; we thought about multiple hosting architecures; we floated the idea of shipping it with other analytical tools backed in. But ultimately we benefitted from launching it as quick-and-dirty as we could. Working through an idea like this is both easier and more motivating when you've already started to build the tiniest amount of interest. And the number of things able to "block" a launch can cascade into such a series of issues that you're buried under them. By launching early, you can triage the things that actually matter and let the premature optimizations go un-optimized.
+There were many decisions we could've made to extend the work pre-launch: We considered rewriting the LP into one of our JS MVCs of choice, to make it more interactive and extensible; we thought about multiple hosting architectures; we floated the idea of shipping it with other analytical tools backed in. But ultimately we benefitted from launching it as quick-and-dirty as we could. Working through an idea like this is both easier and more motivating when you've already started to build the tiniest amount of interest. And the number of things able to "block" a launch can cascade into such a series of issues that you're buried under them. By launching early, you can triage the things that actually matter and let the premature optimizations go un-optimized.
 
 ## Conclusion
 
