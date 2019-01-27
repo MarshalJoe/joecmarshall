@@ -5,9 +5,11 @@ thumbnail: "/images/jobletter-site.png"
 draft: false
 ---
 
-We [launched](https://joecmarshall.com/posts/introducing-jobletter/) [jobletter](https://jobletter.io) three weeks ago and have been enjoying experimenting with our landing page along with [a more open approach](https://joecmarshall.com/posts/one-hundred-users-in-two-weeks/) to writing about our process.
+Three weeks ago we [launched](https://joecmarshall.com/posts/introducing-jobletter/) [jobletter](https://jobletter.io).
 
-This past Friday we sent our first email. Over the past week we'd worked with a freelance dev shop to deliver an email template around our existing site design, as well as winnow down the jobs we'd been collecting to our top seven. We wanted a good mix of industries, company sizes, technology stacks, and other important metrics - emphasizing location-independent postings like businesses hiring in multiple locations, or startups open to hiring remote junior workers (harder to find, but they exist).
+Since then, we've been promoting the site, collecting feedback from friends, and experimenting with with [a more open approach](https://joecmarshall.com/posts/one-hundred-users-in-two-weeks/) to writing about our process.
+
+All that culminated in us reaching a milestone this past Friday - our first email. Over the past week we'd worked with a freelance dev shop to deliver an email template around our existing site design, as well as winnow down the jobs we'd been collecting to our top seven. We wanted a good mix of industries, company sizes, technology stacks, and other important metrics - emphasizing location-independent postings like businesses hiring in multiple locations, or startups open to hiring remote junior workers (harder to find, but they exist).
 
 Firing it off Friday _might_ not have been the ultimate in strategy. A lot of [studies show](https://coschedule.com/blog/best-time-to-send-email/) that you can take several different tacks - send it in the morning, when people are taking their coffee break, or in the late evening as counterprogramming for everyone scrolling through their inbox with a glass of wine / beer - but on a Friday at 5pm during the end-of-workday traffic meltdown is not the universally-acclaimed best option. But it was 5 o' clock and we (ok, maybe _me_) were eager to fire it off on a weekday. And firing it off then would give us time over the weekend for a retrospective.
 
