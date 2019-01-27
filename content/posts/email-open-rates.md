@@ -71,8 +71,46 @@ It might not be as structured as a rigorous UX testing session, but we do want t
 
 These are pretty foundational, what-kind-of-product issues that will provide insight into our general direction. We don't want to get caught up in the small details around design or layout, so much as the product in its totality.
 
-If you read the email above and thought "I want to go to there" sign up for the service below.
+## Stay in Touch
 
+If you read the email above and thought "I want to go to there" sign up for the service below. 
+
+And check back - I'll be writing more about [jobletter](https://jobletter.io) in the coming weeks.
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+</style>
+<div id="mc_embed_signup">
+<form action="https://jobletter.us9.list-manage.com/subscribe/post?u=50452eee01aae18a82d9dd092&amp;id=9b8fa5c4b2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+    <label for="mce-EMAIL">Email Address </label>
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+    <label for="mce-FNAME">First Name </label>
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+    <label for="mce-LNAME">Last Name </label>
+    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group input-group">
+    <strong>Frequency </strong>
+    <ul><li><input type="radio" value="Weekly" name="MMERGE5" id="mce-MMERGE5-0"><label for="mce-MMERGE5-0">Weekly</label></li>
+<li><input type="radio" value="Monthly" name="MMERGE5" id="mce-MMERGE5-1"><label for="mce-MMERGE5-1">Monthly</label></li>
+</ul>
+</div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_50452eee01aae18a82d9dd092_9b8fa5c4b2" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
 
 
 
