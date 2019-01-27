@@ -34,7 +34,7 @@ copyright = "&copy; 2018 Joe Marshall"
   authorwebsite = "joecmarshall.com"
   # avatar = "/path/to/avatar"
   # contact = "mailto:joe@joecmarshall.com"
-  bio = "Joe is a web application engineer, independent security researcher, and writer. His first book, Hands-On Bug Hunting for Penetration Testers, is out now."
+  bio = "Joe is a web application developer, independent security researcher, and writer. His first book, Hands-On Bug Hunting for Penetration Testers, is out now."
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Developer and Author from Austin, TX."
   # Logo image. This is displayed ogp image.
