@@ -42,19 +42,14 @@ copyright = "&copy; 2018 Joe Marshall"
   favicon = "/favicon.ico"
 
 [[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
     name = "Bug Hunting"
     url = "https://handsonbughunting.com"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Job Board"
     url = "/jobs"
-    weight = 3
+    weight = 2
 
 
 [related]
