@@ -42,7 +42,7 @@ copyright = "&copy; 2019 Joe Marshall"
   favicon = "/favicon.ico"
 
 [[menu.main]]
-    name = "Bug Hunting"
+    name = "Hand On Bug Hunting"
     url = "https://handsonbughunting.com"
     weight = 1
 
