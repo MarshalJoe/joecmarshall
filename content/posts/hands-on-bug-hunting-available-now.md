@@ -3,7 +3,7 @@ title: "Bug Hunting for Penetration Testers Available Now"
 date: 2018-09-16T13:56:18-05:00
 thumbnail: "/images/bughunting-cover.jpg"
 draft: false
-tags: ["pentesting", "writing"]
+tags: ["pentesting", "writing", "burp suite"]
 ---
 
 **Hands-On Bug Hunting for Penetration Testers** is now available. The book covers how to detect, validate, and write submission reports for XSS, SQLi and NoSQLi, XXE, CSRF, and more vulnerabilities, including sections on detecting hidden content, crowdsourcing code injection snippets and other malicious inputs, writing quality submission reports, and more. It uses Burp Suite as a principal tool and proxy, with Python (3.6.5) and Bash scripts thrown in to augment, extend, and automate different testing functions. **All the tools used are free**. You can find the work in both ebook and print versions:

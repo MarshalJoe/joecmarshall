@@ -3,7 +3,7 @@ title: "Pre-order Hands-On Bug Hunting for Penetration Testers"
 date: 2018-06-23T13:56:18-05:00
 thumbnail: "/images/bughunting-cover.jpg"
 draft: false
-tags: ["pentesting", "writing"]
+tags: ["pentesting", "writing", "burp suite"]
 ---
 
 *Update: The book has since been released. See how to purchase it at [handsonbughunting.com](https://handsonbughunting.com) or use the Amazon link included in the article below.*
