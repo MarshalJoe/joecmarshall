@@ -3,6 +3,7 @@ title: "Jobletter - Junior Developer jobs in your inbox"
 date: 2019-01-07T18:56:18-05:00
 thumbnail: "/images/jobletter-site.png"
 draft: false
+tags: ["jobletter"]
 ---
 
 A few days ago, David Broadlick and I launched [Jobletter](https://jobletter.io) into beta, as a way for developers at the beginning of their careers to get a concentrated dose of high-quality jobs targeting their skillset and experience level.

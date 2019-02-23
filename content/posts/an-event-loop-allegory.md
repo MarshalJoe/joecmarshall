@@ -2,6 +2,7 @@
 title: "An Event Loop Allegory"
 date: 2016-08-05T18:56:18-05:00
 draft: false
+tags: ["node", "tutorial"]
 ---
 
 Two jugglers walked around a small track, practicing their craft.

@@ -3,6 +3,7 @@ title: "Two Hundred Fifty Users in Three Weeks"
 date: 2019-02-03T12:56:18-05:00
 thumbnail: "/images/jobletter-site.png"
 draft: false
+tags: ["jobletter"]
 ---
 
 At [three-weeks](https://joecmarshall.com/introducing-jobletter/), the ongoing experiement in writing a [newsletter for junior devs](https://jobletter.io) and [open strategizing](https://joecmarshall.com/one-hundred-users-in-two-weeks/) is in full swing.

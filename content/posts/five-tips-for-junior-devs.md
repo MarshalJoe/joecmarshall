@@ -2,6 +2,7 @@
 title: "Five Tips for Junior Developers-To-Be"
 date: 2019-02-17T12:56:18-05:00
 draft: false
+tags: ["career", "tutorial"]
 ---
 
 Landing your first "Software Developer" or "Web Developer" position is a big get. More than a designer-who-programs or a writer-who-markups, taking on a role where your principal responsibility is coding is a big step in any technology career.

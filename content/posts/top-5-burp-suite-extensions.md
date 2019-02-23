@@ -2,6 +2,7 @@
 title: "The Top 5 Burp Suite Extensions"
 date: 2018-05-17T18:56:18-05:00
 draft: false
+tags: ["burp suite", "pentesting"]
 ---
 
 If you're a freelance security researcher, chances are you've heard of — or use — [Burp Suite](http://portswigger.net/burp/), a program commonly considered the gold standard for penetration testing software. But if you're only using the stock version, as great as it is, you're missing out! Both the free and paid versions of Burp support helpful [extensions](https://pro.portswigger.net/bappstore/) that add extra functionality to the main client — whether it's a separate (and free) scanner, an IP randomizer, or a plugin for validating XSS vulnerabilities. This list is intended to give you a quick-hit overview of some of the best extensions that you can add easily and painlessly to your current setup to be more profitable and productive as a security researcher.

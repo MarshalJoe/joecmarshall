@@ -2,6 +2,7 @@
 title: "Automated Scanning with Arachni"
 date: 2019-02-22T12:56:18-05:00
 draft: false
+tags: ["pentesting", "scanning", "tutorial"]
 ---
 
 Scanners have a tricky reputation. Their point-and-click simplicity and utility as automated reconnassiance tools means they get love from script kiddies and professionals alike. They also have compelling use cases for flushing out certain vulnerabilities, like [XSS](http://bughunting.guide/a-gentle-introduction-to-cross-site-scripting-xss/), where there may be too many input vectors or payload varities to feasibly go through the application by hand.

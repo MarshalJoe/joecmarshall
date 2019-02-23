@@ -3,6 +3,7 @@ title: "One Hundred Users in Two Weeks"
 date: 2019-01-21T12:56:18-05:00
 thumbnail: "/images/jobletter-site.png"
 draft: false
+tags: ["jobletter", "career"]
 ---
 
 Recently my business partner and I launched a new service, [jobletter.io](https://jobletter.io) with a simple premise: We deliver Junior Developer jobs to your inbox.

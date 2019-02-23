@@ -3,6 +3,7 @@ title: "How We Reached a 67% Open Rate and a 26% CTR"
 date: 2019-01-21T12:56:18-05:00
 thumbnail: "/images/jobletter-site.png"
 draft: false
+tags: ["email marketing", "jobletter", "career"]
 ---
 
 Three weeks ago we [launched](https://joecmarshall.com/posts/introducing-jobletter/) [jobletter](https://jobletter.io).

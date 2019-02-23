@@ -51,6 +51,10 @@ copyright = "&copy; 2019 Joe Marshall"
     url = "/jobs"
     weight = 2
 
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.

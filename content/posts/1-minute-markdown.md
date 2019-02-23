@@ -2,6 +2,7 @@
 title: "1-Minute Markdown"
 date: 2017-06-13T18:56:18-05:00
 draft: false
+tags: [ "markdown", "tutorial", "writing"]
 ---
 
 # What's Markdown?

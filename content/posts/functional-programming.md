@@ -2,6 +2,7 @@
 title: "A Brief Illustration of Functional Programming"
 date: 2017-09-22T18:56:18-05:00
 draft: false
+tags: ["python", "tutorial"]
 ---
 
 [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) is a powerful programming paradigm that tries to reduce bugs and make it easier to reason about an application by avoiding state changes and the mutation of global values, generally. 

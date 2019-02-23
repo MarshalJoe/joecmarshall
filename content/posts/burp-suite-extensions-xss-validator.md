@@ -2,6 +2,7 @@
 title: "Burp Extensions - Setting up XSS Validator"
 date: 2018-10-16T18:56:18-05:00
 draft: false
+tags: ["burp suite", "pentesting"]
 ---
 
 ## Hunting for XSS

@@ -2,6 +2,7 @@
 title: "Building a Python 3.6 Seed App with Docker, Tox, and Pylint"
 date: 2018-12-06T13:56:18-05:00
 draft: false
+tags: ["python", "docker", "tutorial"]
 ---
 
 Seed apps are great.
