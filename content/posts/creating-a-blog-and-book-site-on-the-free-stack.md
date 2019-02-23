@@ -3,7 +3,7 @@ title: "Creating my Blog and Book Sites on the Free Stack"
 date: 2018-08-02T12:45:18-05:00
 thumbnail: "/images/freelance-graphic.png"
 draft: false
-tags: ["career", "static"]
+tags: ["career", "writing"]
 ---
 
 When I was setting out to revamp my personal blog and create a new site for [my book](https://handsonbughunting.com), I had a couple of considerations in mind. I wanted both sites to be highly-available (I don't get much traffic, but also don't want a hug of death), simple (with as few moving parts as possible), and easy-to-update and generally extend.
