@@ -2,7 +2,7 @@
 title: "Red Flags in Software Developer Job Descriptions"
 date: 2019-02-23T00:56:18-05:00
 draft: false
-tags: ["jobletter", "career", "tutorial"]
+tags: ["career", "tutorial"]
 ---
 
 For [some reason](https://jobletter.io) I've been reading a lot of job descriptions for junior devs lately and that has naturally left me with an inordinate number of opinions. I have, with great effort, condensed them here for you, dear reader.
