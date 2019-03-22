@@ -1,6 +1,6 @@
 ---
 title: "My Failed Book Analyzing 580,000 Craigslist Personals"
-date: 2019-03-21T12:56:18-05:00
+date: 2019-03-22T10:56:18-05:00
 thumbnail: "/images/craigslist-header.png"
 draft: false
 tags: [ "writing"]
