@@ -91,4 +91,5 @@ If this has piqued your interest &mdash; or you are encountering scenarios beyon
 - [John Gruber's original markdown syntax](http://daringfireball.net/projects/markdown/syntax)  
 - [Commonmark, an attempt at unifying markdown versions](http://commonmark.org/)  
 - [markdowntutorial.com](http://markdowntutorial.com/)  
-- [whatismarkdown.com](http://whatismarkdown.com/)  
+- [whatismarkdown.com](http://whatismarkdown.com/)
+- My post on ["My Writing Tech Stack"](https://joecmarshall.com/posts/my-writing-tech-stack/) or ["Writing a Book With Unix"](https://joecmarshall.com/posts/book-writing-environment/)  
