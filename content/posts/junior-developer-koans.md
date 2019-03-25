@@ -1,7 +1,7 @@
 ---
 title: "Junior Developer Koans"
 date: 2019-03-24T00:56:18-05:00
-draft: true
+draft: false
 tags: ["jobletter", "tutorial", "writing"]
 ---
 
