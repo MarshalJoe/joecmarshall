@@ -2,13 +2,9 @@
   <div class="sidebar">
     <div class="book-container">
       <h3>My book</h3>
-      <a target="_blank"
-        onclick="gtag('event', 'click', {'event_category': 'sidebar book link - amazon', 'event_label': 'https://www.amazon.com/gp/product/1789344204', 'transport_type': 'beacon', }); console.log('amazon clicked')" 
-        href="https://www.amazon.com/gp/product/1789344204"><img width="100%" height="750"  src="/images/bughunting-cover.jpg" style="border:none; "></a>
+      <a onclick="getOutboundLink('https://www.amazon.com/gp/product/1789344204'); return false;"><img width="100%" height="750"  src="/images/bughunting-cover.jpg" style="border:none; "></a>
       <p>
-        <a target="_blank" 
-        onclick="gtag('event', 'click', {'event_category': 'sidebar book link - packtpub', 'event_label': 'https://www.packtpub.com/networking-and-servers/hands-bug-hunting-penetration-testers', 'transport_type': 'beacon', }); console.log('packt clicked')"
-        href="https://www.packtpub.com/networking-and-servers/hands-bug-hunting-penetration-testers">
+        <a onclick="getOutboundLink('https://www.packtpub.com/networking-and-servers/hands-bug-hunting-penetration-testers'); return false;">
           <i>"Excellent livre que je conseille a tout ceux qui s’intéressent aux bug bounty"</i>
       </p>
       <p>
