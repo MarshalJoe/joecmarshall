@@ -19,7 +19,7 @@ Those the gods wish to destroy they first call promising.
 
 Short, time-bound, contracts can be a great stepping stone for a young developer, or a good stint for a freelancer looking to focus on one project for a while, but they can also be sources of ennervating, aggravating legacy work. And the presence of a lot of contractors employed on short terms can also be indicative of a short-termist culture: There's a natural inclination to burn through people that way, because of the financial and organizational incentives.
 
-## "Early Stage Emmployee / Technical Co-founder / Person to Make My Thing"
+## "Early Stage Employee / Technical Co-founder / Person to Make My Thing"
 
 Being a technical co-founder or "First Engineer" often means that someone has a brilliant, unicorn-level idea and they just need that tiny part of the entire product / platform / paradigm-shifting technology to be built by someone technical (like you). Ideas are incredibly cheap. Don't invest significant effort unless there's compelling market validation, great compensation, or both.
 
