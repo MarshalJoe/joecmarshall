@@ -27,6 +27,10 @@ Being a technical co-founder or "First Engineer" often means that someone has a 
 
 Your job search shouldn't be driven by what's fashionable in tech, but popularity and the market for a skill *are* important factors, since they influence a career track's employability and profitability. The market for Coldfusion devs isn't too hot (or even a thing) and jQuery simply doesn't have the complexity or potential power of a full JS MVC. Companies advertising outdated stacks open you up to the risk of building the wrong sorts of skills, which can have far-reaching effects on your career.
 
+## Must Know HTML"
+
+There's a risk working on an outdated stack, but there's also a risk working with technologies that are too easy - whatever their age: Work that doesn't challenge you or incite growth. Creating pixel-perfect markup is absolutely an incredible skill that takes time, attention, and craft, but writing HTML and CSS is also becoming a commoditized task thanks to having one of the lowest barriers to entry in the larger ecosystem of web application development work. It might be a great handhold into more dev work, but it's hard to use it to differentiate yourself later in your career.
+
 These have just been a few of the red flags that I've encountered researching jobs for [Jobletter](https://jobletter.io) (check it out if you're in the market), but there are many and more every day. Just like in any relationship, one red flag might be offset by a redeeming trait or focus (maybe?) but in a certain variety, or combination, it becomes too much to ignore.
 
 And you deserve better! 
