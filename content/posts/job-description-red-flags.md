@@ -27,7 +27,7 @@ Being a technical co-founder or "First Engineer" often means that someone has a 
 
 Your job search shouldn't be driven by what's fashionable in tech, but popularity and the market for a skill *are* important factors, since they influence a career track's employability and profitability. The market for Coldfusion devs isn't too hot (or even a thing) and jQuery simply doesn't have the complexity or potential power of a full JS MVC. Companies advertising outdated stacks open you up to the risk of building the wrong sorts of skills, which can have far-reaching effects on your career.
 
-These have just been a few of the red flags that I've encountered, but there are many and more every day. Just like in any relationship, one red flag might be offset by a redeeming trait or focus (maybe?) but in a certain variety, or combination, it becomes too much to ignore.
+These have just been a few of the red flags that I've encountered researching jobs for [Jobletter](https://jobletter.io) (check it out if you're in the market), but there are many and more every day. Just like in any relationship, one red flag might be offset by a redeeming trait or focus (maybe?) but in a certain variety, or combination, it becomes too much to ignore.
 
 And you deserve better! 
 
