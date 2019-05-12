@@ -1,7 +1,7 @@
 ---
 title: "Red Flags in Software Developer Job Descriptions"
 date: 2019-02-23T00:56:18-05:00
-draft: false
+draft: true
 tags: ["career", "tutorial"]
 ---
 
