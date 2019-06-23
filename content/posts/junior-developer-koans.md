@@ -11,7 +11,7 @@ The student could not.
 The old man told the young:  
 "Python has seen 3 versions in my day".  
 The young man responded:  
-"Node has 11."  
+"Node has 12."  
 
 "Teacher", the student inquired, "What's the best Javascript MVC?"  
 The teacher replied.  
@@ -30,4 +30,4 @@ A Junior Developer was walking in the woods with his teacher.
 A recruiter called a developer.  
 The developer never called back.  
 
-*Check out [Jobletter](https://jobletter.io) and sign up to receive a newsletter for junior devs.*. 
+*Check out [Jobletter](https://jobletter.io) and sign up to receive a newsletter just for junior devs.*. 
