@@ -2,14 +2,14 @@
 title: "Comparing Integrations in the Form Market"
 date: 2019-06-22T00:56:18-05:00
 draft: false
-tags: ["analysis", "career", "form-cast"]
+tags: ["analysis", "career", "formcake"]
 ---
 
 The form market is huge. Everyone wants to make drag-n-drop, marketing and growth hacker-friendly forms that can do everything from lead capture to payment processing.
 
 And so naturally, I asked ... maybe there's room for me?
 
-But seriously, with a lot you get less-than-stellar design, clunky widgets, and unwieldy WYSIWYGs. That's why a few friends and I decided to dream up an MVP based on making the Stripe or Slack of form companies - something that works hard through efficient UX to reduce cognitive load and just be *easier* at all the things, generally. Don't try to create another form builder for marketers - instead make a detatched backend that anyone who knows their way around a form tag can slice into their markup.
+But seriously, with a lot you get less-than-stellar design, clunky widgets, and unwieldy WYSIWYGs. That's why a few friends and I decided to dream up an [MVP](https://formcake.com) based on making the Stripe or Slack of form companies - something that works hard through efficient UX to reduce cognitive load and just be *easier* at all the things, generally. Don't try to create another form builder for marketers - instead make a detatched backend that anyone who knows their way around a form tag can slice into their markup.
 
 And to do so I thought I'd perform a little side-by-side comparison of integrations - one of the bread-and-butter features each service invariably offers.
 

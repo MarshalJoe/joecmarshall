@@ -2,14 +2,14 @@
 title: "Adding a Loading Icon in Nuxt"
 date: 2019-06-28T00:56:18-05:00
 draft: false
-tags: ["tutorial", "form-cast"]
+tags: ["tutorial", "formcake"]
 ---
 
 Today I'm going to discuss implementing a loading icon like you see in a lot of SPAs within the context of a Nuxt project I'm working on - Form Cast, a simple form backend-as-a-service.
 
 ### The Icon
 
-My project at the moment is pretty spartanly designed, with a plain white background. For my loading icon, I wanted something with a flash of both activity and color. After surfing around, I decided on this.
+My project at the moment is pretty spartanly designed, with a plain white background. For my loading icon, I wanted something with a flash of both activity and color. After surfing around, I decided on this (it's technically a typing activity icon, but who cares).
 
 ![](/images/loading.gif)
 
