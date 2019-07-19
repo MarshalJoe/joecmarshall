@@ -6,7 +6,7 @@ draft: false
 tags: ["career", "formcake"]
 ---
 
-[Formcake](https://formcake.com) was made to solve a simple but common problem: You have a contact form, lead page, or survey, but you don't want to spin up an entire server just to field that one form's submissions.
+🍰 [Formcake](https://formcake.com) was made to solve a simple but common problem: You have a contact form, lead page, or survey, but you don't want to spin up an entire server just to field that one form's submissions.
 
 Enter Formcake - you sign up, create a form, and get an endpoint that looks like `formcake.com/api/forms/<YOUR_FORM_ID/submissions` that you can put into your `<form>` tag's `action` endpoint.
 
