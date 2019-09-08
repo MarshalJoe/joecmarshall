@@ -36,11 +36,6 @@ For the second dropdown, "Payload type," select the "Extension-generated" option
 **Payload Options**
 When you click "Select generator" you'll open a modal where you can select "XSS Validator Payloads" as your "selected generator"
 
-**Payload Processing**
-Here you'll want to add a rule, choosing "Invoke Burp Extension" as the rule type and then XSS Validator as the processor.
-
-![](/images/webscantest-payload-processing-rule.png)
-
 Then you can navigate to the XSS Validator extension tab.
 
 ![](/images/xss-validator-grep.png)
