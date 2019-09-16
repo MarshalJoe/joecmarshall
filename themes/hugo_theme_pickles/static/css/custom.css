@@ -45,7 +45,16 @@
   color:inherit;
 }
 
+.article-title {
+  font-size: 5.5rem;
+}
+
 @media (max-width: 991.98px) {
+
+  .article-title {
+    font-size: 4rem;
+  }
+
   .main-container {
     max-width: 90%;
   }
@@ -68,6 +77,10 @@
 }
 
 @media (max-width: 575.98px) {
+  .article-title {
+    font-size: 3.2rem;
+  }
+
   .l-nav {
     padding-left: 0px;
   }
