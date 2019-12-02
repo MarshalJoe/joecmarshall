@@ -62,6 +62,6 @@ And finally, **everyone loves cake**. It's unscientific, completely un-stastisti
 ## Winning and Losing
 Names always seem both underestimated and overvalued at the same time. An individual domain or formulation of a product name might not be critical, but a strong visual metaphor, rhyme, or other pneumonic device can make you virally unforgettable and pay off in a reduced marketing budget and increased lead conversion for years.
 
-But that wasn't our gial. It was to, if not brainstorm a great name, then at least come up with a not-bad-to-good one. I think we did that.
+But that wasn't our goal. It was to, if not brainstorm a great name, then at least come up with a not-bad-to-good one. I think we did that.
 
-And if nothing else I get to look at cake icons all day.
+And if nothing else I got to look at cake icons all day.

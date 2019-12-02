@@ -47,11 +47,6 @@ copyright = "&copy; 2019 Joe Marshall"
     weight = 1
 
 [[menu.main]]
-    name = "Job Board"
-    url = "/jobs"
-    weight = 2
-
-[[menu.main]]
     name = "Tags"
     url = "/tags"
     weight = 4
