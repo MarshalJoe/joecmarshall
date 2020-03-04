@@ -51,6 +51,11 @@ copyright = "&copy; 2019 Joe Marshall"
     url = "/tags"
     weight = 4
 
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
   threshold = 80
