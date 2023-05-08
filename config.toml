@@ -4,7 +4,7 @@ baseurl = "https://joecmarshall.com/"
 languageCode = "en-us"
 Title = "Joe M."
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; 2019 Joe Marshall"
+copyright = "&copy; 2023 Joe Marshall"
 
 [params]
   paginate = 10

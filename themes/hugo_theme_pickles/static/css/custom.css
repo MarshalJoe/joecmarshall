@@ -41,7 +41,12 @@
   margin: 60px 0 0 15%;
 }
 
-.book-container a {
+.book-container-mobile {
+  margin: auto;
+}
+
+.book-container a,
+.book-container-mobile a {
   color:inherit;
 }
 
@@ -84,4 +89,5 @@
   .l-nav {
     padding-left: 0px;
   }
+
 }
