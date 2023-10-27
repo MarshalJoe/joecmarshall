@@ -5,13 +5,13 @@ draft: false
 tags: ["ai", "tutorial", "writing"]
 ---
 
-Plagiarism is a serious transgression for writers for the same reason joke theft is a cardinal sin for comedians - creative theft hurts.
+Plagiarism is a serious transgression for writers for the same reason joke theft is a cardinal sin for comedians - it amounts to an attack on their profession.
 
-Creative theft is so hated because it steals the fruits of our labor even more funadmentally than just office politiking or project credit-taking. It erases the identity of the original author (of the joke, insight, analysis, etc) and creates in its place a lie - that the perpetrator of the theft is the true source, and deserves the accolades, finacial and social, associated with it.
+Creative theft is so hated because it steals the fruits of our labor even more fundamentally than just office politicking or project credit-taking. It erases the identity of the original author and creates in its place a lie - that the perpetrator of the theft deserves the accolades, finacial and social, associated with it.
 
 Creative theft also cheats the thief - they miss the formative opportunity to make the argument that might change their own way of thinking. Skipping that paper on *Tale of Two Cities* sure saves you time, but you risk impoverishing your own intellect if you never engage with great literature, and only become adept at aping (or stealing) others' takes.
 
-That's all to say there are good reasons plagiarism is such a sin, and plagiarising another author can make you *personna non grata* at places like the *New York Times* and the *Washington Post*. It makes everyone poorer, including the plagiaser.
+That's all to say there are good reasons plagiarism is such a sin. It makes everyone poorer, including the plagiaser.
 
 But - honest question: **Is using ChatGPT plagiarism?**
 
