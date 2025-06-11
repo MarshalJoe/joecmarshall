@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Plagiarism"
 date: 2023-05-07T00:56:18-05:00
-draft: false
+draft: true
 tags: ["ai", "tutorial", "writing"]
 ---
 
