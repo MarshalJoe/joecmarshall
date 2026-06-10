@@ -4,7 +4,7 @@ baseurl = "https://joecmarshall.com/"
 languageCode = "en-us"
 Title = "Joe M."
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; 2023 Joe Marshall"
+copyright = "&copy; 2026 Joe Marshall"
 
 [params]
   paginate = 10
@@ -51,10 +51,6 @@ copyright = "&copy; 2023 Joe Marshall"
     url = "/tags"
     weight = 4
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = 4
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
