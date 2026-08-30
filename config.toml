@@ -56,6 +56,8 @@ copyright = "&copy; 2026 Joe Marshall"
     url = "/contact"
     weight = 4
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [related]
   # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
