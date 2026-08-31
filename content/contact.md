@@ -41,7 +41,7 @@ layout: staticpage
 }
 </style>
 
-<form class="contact-form" netlify>
+<form class="contact-form" name="contact" method="POST" netlify>
     <label for="email">Email</label>
     <input placeholder="homer@compuglobalhypermega.net" required type="email" name="email" />
     <label for="message">Message</label>
