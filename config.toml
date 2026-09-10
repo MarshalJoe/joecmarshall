@@ -56,6 +56,11 @@ copyright = "&copy; 2026 Joe Marshall"
     url = "/contact"
     weight = 4
 
+[[menu.main]]
+    name = "Hire Me"
+    url = "/hire-me"
+    weight = 4
+
 [markup.goldmark.renderer]
 unsafe= true
 
