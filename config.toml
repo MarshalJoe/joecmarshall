@@ -28,12 +28,10 @@ copyright = "&copy; 2026 Joe Marshall"
   linkedin = "joecmarshall"
   # Disqus shortname
   disqus = ""
-  # Google Analytics API key.
-  ga_api_key = "UA-105604576-1"
   author = "Joe Marshall"
   authorwebsite = "joecmarshall.com"
   # avatar = "/path/to/avatar"
-  # contact = "mailto:joe@joecmarshall.com"
+  # contact = "/contact"
   bio = "Joe is a web application developer, independent security researcher, and writer."
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Developer and Author from Austin, TX."

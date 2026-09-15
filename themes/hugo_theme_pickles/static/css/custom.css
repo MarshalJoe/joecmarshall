@@ -34,7 +34,12 @@
 .l-nav {
   width: 100%;
   max-width: 100%;
-  padding-left: 16px;
+}
+
+@media (min-width: 640px) {
+  .p-menu__lists {
+    justify-content: center;
+  }
 }
 
 .book-container {
@@ -86,13 +91,14 @@
   }
 }
 
+@media (max-width: 639.98px) {
+  .l-nav {
+    padding-left: 16px;
+  }
+}
+
 @media (max-width: 575.98px) {
   .article-title {
     font-size: 3.2rem;
   }
-
-  .l-nav {
-    padding-left: 0px;
-  }
-
 }
