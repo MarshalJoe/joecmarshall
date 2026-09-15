@@ -42,6 +42,7 @@
 }
 
 .book-container-mobile {
+  display: none;
   margin: auto;
 }
 
@@ -72,6 +73,10 @@
   .sidebar {
     float: none;
     display: none;
+  }
+
+  .book-container-mobile {
+    display: block;
   }
 
   .main-footer {
