@@ -47,14 +47,14 @@
     <nav class="p-pagination c-pagination">
       <div class="c-pagination__ctrl">
         <div class="c-pagination__newer">
-          {{ if .Prev }}
-          <a href="{{ .Prev.Permalink }}">Newer</a>
+          {{ if .Next }}
+          <a href="{{ .Next.Permalink }}">Newer</a>
           {{ else }}
           {{ end }}
         </div>
         <div class="c-pagination__older">
-          {{ if .Next }}
-          <a href="{{ .Next.Permalink }}">Older</a>
+          {{ if .Prev }}
+          <a href="{{ .Prev.Permalink }}">Older</a>
           {{ else }}
           {{ end }}
         </div>
