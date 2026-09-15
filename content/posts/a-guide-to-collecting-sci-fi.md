@@ -3,7 +3,7 @@ title: "A Quick Guide to Collecting Sci Fi"
 date: 2019-09-08T12:56:18-05:00
 thumbnail: "/images/sci-fi-cover.jpg"
 draft: false
-tags: [ "tutorial", "books", "writing"]
+tags: [ "tutorial", "books", "writing", "sci-fi"]
 ---
 
 Over the years of avidly collecting my niche (New Age science fiction from the 60s and 70s), I've picked up a few germs of knowledge about book collecting, preservation, and general enthusiasm.

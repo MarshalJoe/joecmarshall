@@ -2,7 +2,7 @@
 title: "Writing a Book with Unix"
 date: 2019-03-07T12:56:18-05:00
 draft: false
-tags: [ "markdown", "tutorial", "writing"]
+tags: [ "markdown", "tutorial", "writing", "books"]
 ---
 
 ## Introduction
