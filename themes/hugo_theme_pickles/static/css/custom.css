@@ -102,3 +102,128 @@
     font-size: 3.2rem;
   }
 }
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  background: #fff;
+  transition: background-color .2s ease, color .2s ease;
+}
+
+.l-header {
+  position: relative;
+}
+
+.c-theme-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 1px solid #555;
+  border-radius: 50%;
+  background: none;
+  color: #555;
+  cursor: pointer;
+  transition: .2s;
+}
+
+.c-theme-toggle:hover {
+  background: #555;
+  color: #fff;
+}
+
+.c-theme-toggle__icon {
+  width: 16px;
+  height: 16px;
+  fill: none;
+  stroke: currentColor;
+}
+
+.c-theme-toggle__icon--moon {
+  display: block;
+}
+
+.c-theme-toggle__icon--sun {
+  display: none;
+}
+
+html[data-theme="dark"] .c-theme-toggle__icon--moon {
+  display: none;
+}
+
+html[data-theme="dark"] .c-theme-toggle__icon--sun {
+  display: block;
+}
+
+html[data-theme="dark"] body {
+  background: #181818;
+  color: #ddd;
+}
+
+html[data-theme="dark"] a {
+  color: #6ab0f3;
+}
+
+html[data-theme="dark"] .p-title__link,
+html[data-theme="dark"] .c-article__title a,
+html[data-theme="dark"] .c-tag,
+html[data-theme="dark"] .p-tag-title,
+html[data-theme="dark"] .p-subtitle {
+  color: #ddd;
+}
+
+html[data-theme="dark"] .c-article__summary,
+html[data-theme="dark"] del,
+html[data-theme="dark"] .p-author:before {
+  color: #999;
+}
+
+html[data-theme="dark"] pre {
+  background-color: #2a2a2a;
+}
+
+html[data-theme="dark"] table td,
+html[data-theme="dark"] table th {
+  border-color: #333;
+}
+
+html[data-theme="dark"] .c-links a,
+html[data-theme="dark"] .c-theme-toggle {
+  border-color: #999;
+  color: #ddd;
+}
+
+html[data-theme="dark"] .c-links a:hover,
+html[data-theme="dark"] .c-theme-toggle:hover {
+  background: #999;
+  color: #181818;
+}
+
+html[data-theme="dark"] .p-related__item a {
+  background-color: #2a2a2a;
+  color: #ddd;
+}
+
+html[data-theme="dark"] .p-screen-reader-text:active,
+html[data-theme="dark"] .p-screen-reader-text:focus {
+  background-color: #2a2a2a;
+  color: #6ab0f3;
+}
+
+html[data-theme="dark"] mark {
+  background-color: #806f00;
+  color: #fff;
+}
