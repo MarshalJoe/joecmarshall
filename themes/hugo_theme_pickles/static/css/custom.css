@@ -227,3 +227,48 @@ html[data-theme="dark"] mark {
   background-color: #806f00;
   color: #fff;
 }
+
+.c-book-rating {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 8px 0 0;
+  text-decoration: none;
+}
+
+.c-book-rating__stars {
+  position: relative;
+  display: inline-block;
+  font-size: 1.8rem;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: #ccc;
+}
+
+.c-book-rating__stars:before {
+  content: "★★★★★";
+}
+
+.c-book-rating__stars:after {
+  content: "★★★★★";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 92%;
+  overflow: hidden;
+  white-space: nowrap;
+  color: #f5a623;
+}
+
+.c-book-rating__text {
+  font-size: 1.3rem;
+  color: #555;
+}
+
+html[data-theme="dark"] .c-book-rating__stars {
+  color: #444;
+}
+
+html[data-theme="dark"] .c-book-rating__text {
+  color: #999;
+}
