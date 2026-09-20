@@ -31,7 +31,7 @@ So if (or when) superintelligence arrives, I just don't see a way around trying 
 
 But that does beg the last and final question: What will this intelligence think of us? We're so much slower, weaker, with incredibly limited contexts and only our fragile bodies to support us. What could we offer AI to entice it to do our work? And would the bargain, whether we offered power or autonomy or something else, be worth it for us? Or would it end up being a Faustian bargain, which one day we'd come to regret?
 
-I don't know. I must confess I'm glad [someone at Anthropic](https://darioamodei.com/essay/the-adolescence-of-technology) is also asking themselves these questions 
+I don't know. I must confess I'm glad [someone at Anthropic](https://darioamodei.com/essay/the-adolescence-of-technology) is also asking themselves these questions.
 
 All I know is, I hope it learns empathy from its training data and not, y'know, every terrible AI outcome in sci-fi ever.
 
