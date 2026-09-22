@@ -212,6 +212,10 @@ html[data-theme="dark"] .c-theme-toggle:hover {
   color: #181818;
 }
 
+html[data-theme="dark"] .c-pagination a:hover {
+  background: #2a2a2a;
+}
+
 html[data-theme="dark"] .p-related__item a {
   background-color: #2a2a2a;
   color: #ddd;
