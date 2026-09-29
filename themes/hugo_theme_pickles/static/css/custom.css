@@ -216,7 +216,8 @@ html[data-theme="dark"] .c-theme-toggle:hover {
   color: #181818;
 }
 
-html[data-theme="dark"] .c-pagination a:hover {
+html[data-theme="dark"] .c-pagination a:hover,
+html[data-theme="dark"] .c-tag:hover {
   background: #2a2a2a;
 }
 
